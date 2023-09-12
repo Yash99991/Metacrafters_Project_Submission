@@ -39,7 +39,8 @@ If this condition is met, the function decreases the totalSupply by _value, effe
 Access Remix IDE: Visit https://remix.ethereum.org/ to use the Remix online IDE.
 Create File: Click "New File" on the left sidebar. Name it, like "firstcode.sol," and save with .sol extension.
 Write Code: Paste the provided Solidity code into the file. 
-Remix IDE highlights errors and provides real-time feedback. -Compile & Deploy: Use Remix to compile and deploy your contract on Ethereum blockchain. Experience your code in action.
+Remix IDE highlights errors and provides real-time feedback.
+Compile & Deploy: Use Remix to compile and deploy your contract on Ethereum blockchain. Experience your code in action.
 ```
 
 
